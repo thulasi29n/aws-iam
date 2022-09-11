@@ -1,0 +1,6 @@
+groupname,cstmpolicy
+CloudAdmin,arn:aws:iam::aws:policy/AWSAccountManagementFullAccess
+DBA,arn:aws:iam::aws:policy/AmazonRDSFullAccess
+UnixAdmin,arn:aws:iam::aws:policy/AmazonEC2FullAccess
+NetworkAdmin,arn:aws:iam::aws:policy/AmazonVPCFullAccess
+Trainees,arn:aws:iam::aws:policy/job-function/ViewOnlyAccess
