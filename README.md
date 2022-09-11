@@ -1,5 +1,6 @@
 # aws-iam
 This project for automated user migration and management of AWS Identity and Access Management
+![Groups_users](https://user-images.githubusercontent.com/26733874/189531073-a42c5423-45bc-4d35-87f4-ffb17e90d47a.png)
 
 ![AWS_IAM_Architecture](https://user-images.githubusercontent.com/26733874/189524879-0b1cc000-22cd-4b6e-b2f6-acbaf53a27e6.png)
 
