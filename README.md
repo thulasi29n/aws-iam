@@ -37,3 +37,4 @@ This project for automated user migration and management of AWS Identity and Acc
 4. Create an MFA key to any one of the newly created user using AWS approved authenticator.
 5. login into the user account and make sure you are asking for MFA key.
 
+![AWS_IAM](https://user-images.githubusercontent.com/26733874/189524948-51de4526-a140-49af-a1ec-db060898c0de.png)
